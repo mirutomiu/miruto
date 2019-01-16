@@ -1,1 +1,1 @@
-# miruto
+# this project is for education 
